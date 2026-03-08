@@ -31,3 +31,4 @@ source .venv/bin/activate
 pip install -r requirements.txt
 python main.py
 ```
+使用ai完成个人桌面健康运动助手
