@@ -1,0 +1,16 @@
+# Desktop
+node_modules/
+dist/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+telemetry.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
